@@ -1,4 +1,10 @@
 # Fire-Detection
+
+
+
+![Projectsix](https://github.com/user-attachments/assets/e7bdda14-4e7a-45b1-8c4a-de5b93e26fc6)
+
+
  Python-based deep learning project for fire detection in images, designed to complement traditional fire detection systems. It utilizes Keras, TensorFlow, and OpenCV to construct and train a Convolutional Neural Network (CNN) on a dataset categorized into two classes: fire and no-fire.
  Using deep learning and image processing techniques to detect fire in images as a supplementary tool to traditional fire detection systems AI-Based Fire Detection System This repository contains code for a deep learning project aimed at detecting fire in images. The system can be used as a supplementary tool to enhance traditional fire detection systems.
 
